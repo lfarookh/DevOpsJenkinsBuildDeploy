@@ -22,7 +22,7 @@
   </properties>
   <dependencyManagement>
     <dependencies>
-      <!-- import fabric8 platform bom first -->
+      <!-- import fabric8 platform bom first 
       <dependency>
         <groupId>io.fabric8</groupId>
         <artifactId>fabric8-project-bom-with-platform-deps</artifactId>
@@ -30,6 +30,7 @@
         <type>pom</type>
         <scope>import</scope>
       </dependency>
+	  -->
       <dependency>
         <groupId>org.apache.camel</groupId>
         <artifactId>camel-parent</artifactId>
