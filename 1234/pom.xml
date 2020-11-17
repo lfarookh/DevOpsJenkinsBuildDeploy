@@ -4,7 +4,7 @@
   <groupId>1234</groupId>
   <artifactId>1234</artifactId>
   <version>1234</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
   <name>Fabric8 :: Quickstarts :: Java :: Camel with Spring</name>
   <description>Camel route using Spring XML in a standalone Java container</description>
   <properties>
